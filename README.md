@@ -1,4 +1,4 @@
-# Symple basics of HTML & CSS
+# Basics of HTML & CSS
 
 This project was one of my first to learn HTML & CSS
 
